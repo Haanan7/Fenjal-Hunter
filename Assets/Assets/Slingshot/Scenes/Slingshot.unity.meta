@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: eb4d6fda8ce7c8e41a4992e4cee5f06c
+=======
+guid: d4e75f691836df3489cc204261c52106
+>>>>>>> parent of 9f54d56 (change name)
 timeCreated: 1579798432
 licenseType: Store
 DefaultImporter:
